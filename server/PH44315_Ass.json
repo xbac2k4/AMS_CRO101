@@ -1,0 +1,276 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Xuân Bắc",
+      "email": "bacnxph44315@fpt.edu.vn",
+      "username": "xbac2k4",
+      "password": "1",
+      "address": "Hà Nội",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "id": "2",
+      "fullName": "Xuân Bắc",
+      "email": "bacnxph44315@fpt.edu",
+      "username": "xbac2k5",
+      "password": "2",
+      "address": "Hà Nội",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "id": "3",
+      "fullName": "Xuân Bắc",
+      "email": "bacnxph44315@fpt.edu.vn",
+      "username": "xbac2k6",
+      "password": "1",
+      "address": "Hà Nội",
+      "phoneNumber": "0987654321"
+    },
+    {
+      "id": "4fb9",
+      "fullName": "sd",
+      "email": "sd",
+      "username": "q",
+      "password": "1",
+      "address": "1",
+      "phoneNumber": "1"
+    },
+    {
+      "id": "3fc5",
+      "fullName": "dsffds",
+      "email": "xbac@gmail.com",
+      "username": "sdfasd ",
+      "password": "1",
+      "address": "3",
+      "phoneNumber": "09834213212"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino",
+      "prices": "1.2",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "2",
+      "image": "https://danviet.mediacdn.vn/296231569849192448/2022/5/18/10-16528409977841517330137-16528420681431261978599.jpeg",
+      "nameProdusts": "Espresso",
+      "prices": "1.2",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "3",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Americano",
+      "prices": "1.2",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "4",
+      "image": "https://tuarts.net/wp-content/uploads/2019/10/quan-cafe-ngon-view-dep-ton-that-thuyet3-800x800.jpg",
+      "nameProdusts": "Latte",
+      "prices": "1.2",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "5",
+      "image": "https://cdn.zmescience.com/wp-content/uploads/2018/04/Cappuccino_at_Sightglass_Coffee-1.jpg",
+      "nameProdusts": "Macchiato",
+      "prices": "1.2",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "6",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino 2",
+      "prices": "1.9",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    },
+    {
+      "id": "7",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino 3",
+      "prices": "2.5",
+      "description": "Ngon thì thôi rồi!",
+      "evaluate": "4.5"
+    }
+  ],
+  "carts": [
+    {
+      "id": "047a75fd-7aa3-4c38-bdf2-744ff2b7d17f",
+      "userId": "1",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.2",
+          "quantity": "0"
+        },
+        {
+          "size": "M",
+          "price": "1.5",
+          "quantity": "0"
+        },
+        {
+          "size": "L",
+          "price": "1.9",
+          "quantity": "0"
+        }
+      ]
+    },
+    {
+      "id": "5f74fa29-cef8-498c-9aed-48e82561a147",
+      "userId": "065f9a36-7fcc-4694-b155-78f62870fe4b",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Americano",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.2",
+          "quantity": "0"
+        },
+        {
+          "size": "M",
+          "price": "1.5",
+          "quantity": "0"
+        },
+        {
+          "size": "L",
+          "price": "1.9",
+          "quantity": "0"
+        }
+      ]
+    },
+    {
+      "id": "c4337c03-967c-4979-a8d4-608ff565f3a3",
+      "userId": "065f9a36-7fcc-4694-b155-78f62870fe4b",
+      "image": "https://tuarts.net/wp-content/uploads/2019/10/quan-cafe-ngon-view-dep-ton-that-thuyet3-800x800.jpg",
+      "nameProdusts": "Latte",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.2",
+          "quantity": "0"
+        },
+        {
+          "size": "M",
+          "price": "1.5",
+          "quantity": "0"
+        },
+        {
+          "size": "L",
+          "price": "1.9",
+          "quantity": "0"
+        }
+      ]
+    },
+    {
+      "id": "1d67457c-9460-45e9-addb-979e73887dd8",
+      "userId": "1",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.2",
+          "quantity": "0"
+        },
+        {
+          "size": "M",
+          "price": "1.5",
+          "quantity": "0"
+        },
+        {
+          "size": "L",
+          "price": "1.9",
+          "quantity": "0"
+        }
+      ]
+    },
+    {
+      "id": "5fc0c5ed-63b7-4517-b084-79372a03e3ed",
+      "userId": "1",
+      "image": "https://classiccoffee.com.vn/files/common/goc-nhin-hau-truong-coc-ca-phe-ma-ban-uong-hang-ngay-slfsd.jpg",
+      "nameProdusts": "Capuchino 3",
+      "prices": [
+        {
+          "size": "S",
+          "price": "1.2",
+          "quantity": "0"
+        },
+        {
+          "size": "M",
+          "price": "1.5",
+          "quantity": "0"
+        },
+        {
+          "size": "L",
+          "price": "1.9",
+          "quantity": "0"
+        }
+      ]
+    }
+  ],
+  "orders": [],
+  "contacts": [
+    {
+      "id": "63b94c40-e493-4584-af4e-6fc9070791f7",
+      "idUser": "1",
+      "email": "bacnx@123.com",
+      "fullname": "xuan bac",
+      "message": "hjahahaha"
+    },
+    {
+      "id": "2d5ab00b-047a-4550-90b5-b33954d2fc68",
+      "idUser": "1",
+      "fullname": "dsafas",
+      "email": "ádas",
+      "message": "ádasdasd"
+    },
+    {
+      "id": "c2c72f57-d58c-4860-bafa-ccbb35e52af0",
+      "idUser": "1",
+      "fullname": "dsas",
+      "email": "sada",
+      "message": "ád"
+    },
+    {
+      "id": "5eb1143a-1bc6-4bcc-9c4c-d30d18855548",
+      "idUser": "1",
+      "fullname": "dsas",
+      "email": "sada",
+      "message": "ád"
+    },
+    {
+      "id": "ce4c37af-c162-41ae-8115-81bc4af40a2a",
+      "idUser": "065f9a36-7fcc-4694-b155-78f62870fe4b",
+      "fullname": "nalksdasd",
+      "email": "sad",
+      "message": "adssadasd"
+    },
+    {
+      "id": "95fb9026-67c2-4ad4-9d49-fd23666c5df0",
+      "idUser": "1",
+      "fullname": "dsfdsf",
+      "email": "sdfsdfsd",
+      "message": "sdfsdfsdf"
+    },
+    {
+      "id": "ef9887b4-aa36-4be4-80af-bec1b1901ff3",
+      "idUser": "1",
+      "fullname": "vanh an b",
+      "email": "asdasda",
+      "message": "asdasdas"
+    }
+  ]
+}
